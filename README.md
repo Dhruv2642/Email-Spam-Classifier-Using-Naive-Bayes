@@ -20,9 +20,9 @@ This project uses the **Multinomial Naive Bayes** algorithm to predict whether a
 
 ## 📊 Dataset
 You can use the Kaggle dataset:  
-[Email Spam Classification Dataset](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)
+[Email Spam Classification Dataset]https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## 🧾 Author
-Your Name  
-Your College / University  
-📧 your.email@example.com
+Dhruv 
+Chandigarh University
+📧 dhruvgrover24@gmail.com
