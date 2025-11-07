@@ -1,2 +1,28 @@
-# Email-Spam-Classifier-Using-Naive-Bayes
-Detect spam emails automatically using a Naive Bayes classifier trained on email text data. Built with Python, pandas, and scikit-learn.
+# 📧 Email Spam Classifier using Naive Bayes
+
+A Machine Learning project that classifies emails as **Spam** or **Ham (Not Spam)** using the **Naive Bayes Algorithm**.  
+This project applies **Natural Language Processing (NLP)** techniques to analyze and classify text messages or emails effectively.
+
+## 🚀 Project Overview
+This project uses the **Multinomial Naive Bayes** algorithm to predict whether an email is spam or not based on its content.
+
+## 🧠 Features
+- Text preprocessing and cleaning
+- Feature extraction using CountVectorizer
+- Model training using Naive Bayes
+- Performance evaluation and visualization
+
+## ⚙️ Technologies Used
+- Python
+- scikit-learn
+- pandas, numpy
+- matplotlib, seaborn
+
+## 📊 Dataset
+You can use the Kaggle dataset:  
+[Email Spam Classification Dataset](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)
+
+## 🧾 Author
+Your Name  
+Your College / University  
+📧 your.email@example.com
