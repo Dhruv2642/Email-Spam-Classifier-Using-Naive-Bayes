@@ -23,6 +23,8 @@ You can use the Kaggle dataset:
 [Email Spam Classification Dataset]https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## 🧾 Author
-Dhruv 
-Chandigarh University
+
+**Dhruv Grover**  
+🎓 Chandigarh University 
 📧 dhruvgrover24@gmail.com
+
